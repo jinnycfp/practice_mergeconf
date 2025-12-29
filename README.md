@@ -8,3 +8,4 @@ Change from feature 2
 Change from feature 3
 
 Change from feature 4
+Change from feature 4
